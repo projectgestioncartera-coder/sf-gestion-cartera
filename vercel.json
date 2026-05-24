@@ -1,1 +1,1 @@
-{\n  \"buildCommand\": \"npm run build\",\n  \"devCommand\": \"npm run dev\",\n  \"installCommand\": \"npm install\",\n  \"framework\": \"vite\",\n  \"outputDirectory\": \"dist\",\n  \"env\": {\n    \"VITE_API_URL\": \"https://api.ejemplo.com\",\n    \"VITE_APP_URL\": \"https://sf-gestion-cartera.vercel.app\"\n  }\n}\n
+{\n  \"buildCommand\": \"npm run build\",\n  \"outputDirectory\": \"dist\"\n}\n
